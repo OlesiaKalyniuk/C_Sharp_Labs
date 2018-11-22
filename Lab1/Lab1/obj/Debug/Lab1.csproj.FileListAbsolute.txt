@@ -1,0 +1,11 @@
+C:\Users\Jeckk\RiderProjects\Solution1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Jeckk\RiderProjects\Solution1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Jeckk\RiderProjects\Solution1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Jeckk\RiderProjects\Solution1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Jeckk\RiderProjects\Solution1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Jeckk\RiderProjects\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Jeckk\RiderProjects\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Jeckk\RiderProjects\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Jeckk\RiderProjects\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Jeckk\RiderProjects\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Jeckk\RiderProjects\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
